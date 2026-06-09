@@ -1,6 +1,6 @@
 ---
-title: Home
-layout: home
+title: v2.0
+layout: page
 redirect_to: "https://nw-page.github.io/bigbacter-docs/"
 ---
 
